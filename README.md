@@ -1,5 +1,8 @@
 # Project
 
+## About
+I know neither the main objective of this code challenge nor the technologies that you are expecting, so I tried to keep it as simple as possible, not using any unnecessary libraries, to show my knowledge about the Java, not the libs, but I think this code challenge could be built faster and better with spring for example.
+
 ## To Build
 The JAR is already built, if you want build it again run **mvn package** (mvn is required)
 
